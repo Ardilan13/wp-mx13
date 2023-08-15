@@ -1,0 +1,301 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2020-12-17 15:07+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: classes/controls/mpfe-audio-chooser.php:73
+msgid "Choose Audio File"
+msgstr ""
+
+#: classes/core/load-elementor-widgets.php:107
+msgid "Slide Music"
+msgstr ""
+
+#: classes/core/mpfe-check-elementor.php:104
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: classes/core/mpfe-check-elementor.php:105
+#: classes/core/mpfe-check-elementor.php:128
+#: classes/core/mpfe-check-elementor.php:152
+msgid "Music Player For Elementor"
+msgstr ""
+
+#: classes/core/mpfe-check-elementor.php:106
+#: classes/core/mpfe-check-elementor.php:129
+msgid "Elementor"
+msgstr ""
+
+#: classes/core/mpfe-check-elementor.php:127
+#: classes/core/mpfe-check-elementor.php:151
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: classes/core/mpfe-check-elementor.php:153
+msgid "PHP"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:45
+msgid "Slide Music Player (Free)"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:108
+msgid "Slide Music Player - Backgrounds"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:116
+msgid "Left Background Image"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:130
+#: classes/widgets/slide-music-player-free.php:176
+msgid "Background Position"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:133
+#: classes/widgets/slide-music-player-free.php:179
+msgid "Center Center"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:134
+#: classes/widgets/slide-music-player-free.php:180
+msgid "Center Left"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:135
+#: classes/widgets/slide-music-player-free.php:181
+msgid "Center Right"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:136
+#: classes/widgets/slide-music-player-free.php:182
+msgid "Top Center"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:137
+#: classes/widgets/slide-music-player-free.php:183
+msgid "Top Left"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:138
+#: classes/widgets/slide-music-player-free.php:184
+msgid "Top Right"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:139
+#: classes/widgets/slide-music-player-free.php:185
+msgid "Bottom Center"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:140
+#: classes/widgets/slide-music-player-free.php:186
+msgid "Bottom Left"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:141
+#: classes/widgets/slide-music-player-free.php:187
+msgid "Bottom Right"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:162
+msgid "Right Background Image"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:201
+msgid "Slide Music Player - Album Details"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:209
+msgid "Album Title"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:211
+msgid "Last Man Standing"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:218
+msgid "Featured Text"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:220
+msgid "Featured Album"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:236
+msgid "Buy Text"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:238
+msgid "Buy On Itunes"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:245
+msgid "Album Buy URL"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:247
+#: classes/widgets/slide-music-player-free.php:346
+#: classes/widgets/slide-music-player-free.php:361
+msgid "https://your-link.com"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:260
+msgid "Buy Icon"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:283
+msgid "Slide Music Player - Playlist"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:301
+msgid "Song Name"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:303
+msgid "Someone Like You"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:318
+msgid "Choose Audio"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:320
+msgid "URL to audio file"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:321
+msgid "Choose audio file from media library."
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:344
+msgid "YouTube Promo URL"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:359
+msgid "SoundCloud URL"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:374
+msgid "Audio List"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:391
+msgid "Slide Music Player"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:399
+msgid "Controls Bar Location"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:402
+msgid "Playlist Bottom"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:403
+msgid "Playlist Top"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:412
+msgid "Hide Main Album Info"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:414
+msgid "Yes"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:415
+msgid "No"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:433
+msgid "Playlist Left/Right Padding"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:461
+msgid "Playlist Top/Bottom Padding"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:502
+msgid "Hover Bar Color"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:519
+msgid "Hover Bar Border Radius"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:552
+msgid "Vibrant Background"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:556
+msgid "Classic"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:569
+msgid "Color"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:591
+msgid "First Color"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:614
+msgid "Second Color"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:645
+msgid "Controls Bar Left/Right Padding"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:674
+msgid "Controls Bar Background"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:690
+msgid "Controls Bar Primary Text Color"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:709
+msgid "Controls Bar Secondary Text Color"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:728
+msgid "Next/Prev Buttons Color"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:747
+msgid "Next/Prev Buttons Hover Color"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:766
+msgid "Play/Pause Buttons Color"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:785
+msgid "Time Slider Base Color"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:804
+msgid "Time Slider Base Opacity"
+msgstr ""
+
+#: classes/widgets/slide-music-player-free.php:985
+msgid "Playing"
+msgstr ""

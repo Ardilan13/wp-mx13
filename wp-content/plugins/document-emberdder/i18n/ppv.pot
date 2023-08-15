@@ -1,0 +1,165 @@
+# Copyright (C) 2022 bPlugins LLC
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Document Embedder 1.8.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/document-emberdder\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-11-20T12:12:12+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: ppv\n"
+
+#. Plugin Name of the plugin
+#: inc/PostType/PPTViewer.php:94
+msgid "Document Embedder"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://documentembedder.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Embed Any document easily in wordpress such as word, excel, powerpoint, pdf and more"
+msgstr ""
+
+#. Author of the plugin
+msgid "bPlugins LLC"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://bplugins.com"
+msgstr ""
+
+#: admin/inc/metabox.php:13
+msgid "Configuration"
+msgstr ""
+
+#: admin/inc/metabox.php:25
+#: dist/editor.js:1
+msgid "Document"
+msgstr ""
+
+#: admin/inc/metabox.php:30
+msgid "Width"
+msgstr ""
+
+#: admin/inc/metabox.php:37
+msgid "Height"
+msgstr ""
+
+#: admin/inc/metabox.php:44
+msgid "Show file name on top"
+msgstr ""
+
+#: admin/inc/metabox.php:50
+msgid "Show downlaod button"
+msgstr ""
+
+#: admin/inc/metabox.php:51
+msgid "is not available for google drive and dropbox"
+msgstr ""
+
+#: document-embedder.php:32
+msgid "Updated"
+msgstr ""
+
+#: inc/Base/Help.php:45
+msgid "Help"
+msgstr ""
+
+#: inc/Base/Help.php:59
+msgid "Help & Usages"
+msgstr ""
+
+#: inc/Base/Help.php:70
+msgid "Need any Assistance?"
+msgstr ""
+
+#: inc/Base/Help.php:71
+msgid "Our Expert Support Team is always ready to help you out promptly."
+msgstr ""
+
+#: inc/Base/Help.php:73
+msgid "Contact Support"
+msgstr ""
+
+#: inc/Base/Help.php:79
+msgid "Looking for Documentation?"
+msgstr ""
+
+#: inc/Base/Help.php:80
+msgid "We have detailed documentation on every aspects of HTML5 Audio Player."
+msgstr ""
+
+#: inc/Base/Help.php:81
+msgid "Documentation"
+msgstr ""
+
+#: inc/Base/Help.php:87
+msgid "Like This Plugin?"
+msgstr ""
+
+#: inc/Base/Help.php:88
+msgid "If you like HTML5 Audio Player, please leave us a 5 &#11088; rating."
+msgstr ""
+
+#: inc/Base/Help.php:89
+msgid "Rate the Plugin"
+msgstr ""
+
+#: inc/Base/Help.php:99
+msgid "Looking For Demo?"
+msgstr ""
+
+#: inc/Base/Help.php:99
+msgid "Click Here"
+msgstr ""
+
+#: inc/Base/Help.php:108
+msgid "Video Tutorials"
+msgstr ""
+
+#: inc/PostType/PPTViewer.php:95
+msgid "Supports"
+msgstr ""
+
+#: inc/PostType/PPTViewer.php:98
+msgid "Shortcode"
+msgstr ""
+
+#: inc/PostType/PPTViewer.php:100
+msgid "Copy and paste this shortcode into your posts, pages and widget:"
+msgstr ""
+
+#: inc/PostType/PPTViewer.php:104
+msgid "Template Include"
+msgstr ""
+
+#: inc/PostType/PPTViewer.php:105
+msgid "Copy and paste the PHP code into your template file:"
+msgstr ""
+
+#: inc/PostType/PPTViewer.php:111
+msgid "! Important : Document Embedder Plugin does not preview any documents in localhost. No worries, when you will live your site you will see all the document are previewing perfectly."
+msgstr ""
+
+#: dist/editor.js:1
+msgid "Size"
+msgstr ""
+
+#: dist/editor.js:1
+msgid "Download File"
+msgstr ""
+
+#: dist/editor.js:1
+msgid "Select a document"
+msgstr ""
+
+#: dist/editor.js:1
+msgid "Documenter Embedder"
+msgstr ""

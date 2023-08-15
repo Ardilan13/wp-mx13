@@ -1,0 +1,719 @@
+# Translation of Plugins - 3D FlipBook &#8211; PDF Flipbook Viewer, Flipbook Image Gallery - Development (trunk) in Spanish (Mexico)
+# This file is distributed under the same license as the Plugins - 3D FlipBook &#8211; PDF Flipbook Viewer, Flipbook Image Gallery - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-04 17:28:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_MX\n"
+"Project-Id-Version: Plugins - 3D FlipBook &#8211; PDF Flipbook Viewer, Flipbook Image Gallery - Development (trunk)\n"
+
+#: inc/dictionary.php:165
+msgid "Key up"
+msgstr "Arriba"
+
+#: inc/dictionary.php:164
+msgid "Key press"
+msgstr "Presione la tecla"
+
+#: inc/dictionary.php:163
+msgid "Key down"
+msgstr "Abajo"
+
+#: inc/dictionary.php:162
+msgid "Touch end"
+msgstr "Toque fin"
+
+#: inc/dictionary.php:161
+msgid "Touch move"
+msgstr "Toque mover"
+
+#: inc/dictionary.php:160
+msgid "Touch start"
+msgstr "Toque Iniciar"
+
+#: inc/dictionary.php:159
+msgid "Double click"
+msgstr "Doble clic"
+
+#: inc/dictionary.php:158
+msgid "Click"
+msgstr "Clic"
+
+#: inc/dictionary.php:157
+msgid "Mouse button up"
+msgstr "Botón arriba del ratón"
+
+#: inc/dictionary.php:156
+msgid "Mouse move"
+msgstr "Movimiento del ratón"
+
+#: inc/dictionary.php:155
+msgid "Mouse button down"
+msgstr "Botón abajo del ratón"
+
+#: inc/dictionary.php:154
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/dictionary.php:153
+msgid "Middle"
+msgstr "Medio"
+
+#: inc/dictionary.php:152
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/dictionary.php:151
+msgid "Three"
+msgstr "Tres"
+
+#: inc/dictionary.php:150
+msgid "Two"
+msgstr "Dos"
+
+#: inc/dictionary.php:149
+msgid "One"
+msgstr "Uno"
+
+#: inc/dictionary.php:148
+msgid "Settings saved successfully"
+msgstr "Ajustes guardados exitosamente"
+
+#: inc/dictionary.php:146
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/dictionary.php:145
+msgid "Actions"
+msgstr "Acciones"
+
+#: inc/dictionary.php:143
+msgid "3D FlipBook - Settings"
+msgstr "3D FlipBook - Ajustes"
+
+#: inc/dictionary.php:142
+msgid "Pan"
+msgstr "Panorama"
+
+#: inc/dictionary.php:141
+msgid "Lighting"
+msgstr "Iluminación"
+
+#: inc/dictionary.php:140
+msgid "Zoom"
+msgstr "Zoom"
+
+#: inc/dictionary.php:139
+msgid "activeForMobile"
+msgstr "activoParaMovil"
+
+#: inc/dictionary.php:138
+msgid "is active for mobile devices by default"
+msgstr "está activo para móviles por defecto"
+
+#: inc/dictionary.php:137
+msgid "active"
+msgstr "activo"
+
+#: inc/dictionary.php:136
+msgid "is active by default"
+msgstr "está activo por defecto"
+
+#: inc/dictionary.php:135
+msgid "enabled"
+msgstr "Habilitado"
+
+#: inc/dictionary.php:134
+msgid "is action enabled"
+msgstr "acción está habilitada"
+
+#: inc/dictionary.php:133
+msgid "event"
+msgstr "evento"
+
+#: inc/dictionary.php:132
+msgid "event that activates the action"
+msgstr "evento que activa la acción"
+
+#: inc/dictionary.php:131
+msgid "touches"
+msgstr "toques"
+
+#: inc/dictionary.php:130
+msgid "amount of touches"
+msgstr "cantidad de toques"
+
+#: inc/dictionary.php:129
+msgid "button"
+msgstr "botón"
+
+#: inc/dictionary.php:128
+msgid "mouse button"
+msgstr "botón del ratón"
+
+#: inc/dictionary.php:127
+msgid "key"
+msgstr "tecla"
+
+#: inc/dictionary.php:126
+msgid "keyboard key"
+msgstr "tecla del teclado"
+
+#: inc/dictionary.php:125
+msgid "modificator"
+msgstr "modificador"
+
+#: inc/dictionary.php:124
+msgid "Ctrl, Shift, Alt, or their combination like Ctrl+Shift"
+msgstr "Ctrl, Shift, Alt, o su combinación como Ctrl+Shift"
+
+#: inc/dictionary.php:123
+msgid "pan by means touch drag operation"
+msgstr "panorama por medio de toque y arrastre"
+
+#: inc/dictionary.php:122
+msgid "zoom by means touch drag operation"
+msgstr "zoom por medio de toque y arrastre"
+
+#: inc/dictionary.php:121
+msgid "rotate the book by means touch drag operation"
+msgstr "rotar el libro por medio de toque y arrastre"
+
+#: inc/dictionary.php:120
+msgid "zoom by means mouse wheel operation"
+msgstr "zoom por medio de la rueda del ratón"
+
+#: inc/dictionary.php:119
+msgid "pan by means mouse drag operation"
+msgstr "panorama por arrastre del ratón"
+
+#: inc/dictionary.php:118
+msgid "zoom by means mouse drag operation"
+msgstr "zoom por arrastre del ratón"
+
+#: inc/dictionary.php:117
+msgid "rotate the book by means mouse drag operation"
+msgstr "rotar el libro por arrastre del ratón"
+
+#: inc/dictionary.php:116
+msgid "move pan to the down"
+msgstr "mover panorama abajo"
+
+#: inc/dictionary.php:115
+msgid "move pan to the up"
+msgstr "mover panorama arriba"
+
+#: inc/dictionary.php:114
+msgid "move pan to the right"
+msgstr "mover panorama a la derecha"
+
+#: inc/dictionary.php:113
+msgid "move pan to the left"
+msgstr "mover panorama a la izquierda"
+
+#: inc/dictionary.php:112
+msgid "reduce lighting"
+msgstr "reducir iluminación"
+
+#: inc/dictionary.php:111
+msgid "increase lighting"
+msgstr "aumentar iluminación"
+
+#: inc/dictionary.php:110
+msgid "toggle statistics monitor"
+msgstr "mostrar/ocultar monitor de estadísticas"
+
+#: inc/dictionary.php:109
+msgid "toggle sound effects"
+msgstr "encender/apagar efectos de sonido"
+
+#: inc/dictionary.php:108
+msgid "toggle single page mode"
+msgstr "activar/desactivar modo de página única"
+
+#: inc/dictionary.php:107
+msgid "toggle the smart pan mode"
+msgstr "activar/desactivar modo de panorama inteligente"
+
+#: inc/dictionary.php:106
+msgid "show/hide the settings toolbar button"
+msgstr "mostrar/ocultar el botón de la barra de ajustes"
+
+#: inc/dictionary.php:105
+msgid "toggle fulscreen mode"
+msgstr "activar/desactivar modo de pantalla completa"
+
+#: inc/dictionary.php:104
+msgid "print"
+msgstr "imprimir"
+
+#: inc/dictionary.php:103
+msgid "download"
+msgstr "descargar"
+
+#: inc/dictionary.php:102
+msgid "turn 10 pages forward"
+msgstr "avanzar 10 páginas"
+
+#: inc/dictionary.php:101
+msgid "turn a page forward"
+msgstr "avanzar una página"
+
+#: inc/dictionary.php:100
+msgid "turn a page backward"
+msgstr "retroceder una página"
+
+#: inc/dictionary.php:99
+msgid "turn 10 pages backward"
+msgstr "retroceder 10 páginas"
+
+#: inc/dictionary.php:98
+msgid "show bookmarks"
+msgstr "mostrar marcadores"
+
+#: inc/dictionary.php:97
+msgid "set default zoom"
+msgstr "establecer zoom por defecto"
+
+#: inc/dictionary.php:96
+msgid "zoom out"
+msgstr "alejar"
+
+#: inc/dictionary.php:95
+msgid "zoom in"
+msgstr "acercar"
+
+#: inc/dictionary.php:94
+msgid "pan step for comands cmdPanLeft, cmdPanRight, cmdPanUp, cmdPanDown"
+msgstr "pasos de panorama para comandos cmdPanLeft, cmdPanRight, cmdPanUp, cmdPanDown"
+
+#: inc/dictionary.php:93
+msgid "amount of lighting levels"
+msgstr "número de niveles de iluminación"
+
+#: inc/dictionary.php:92
+msgid "amount of zoom levels"
+msgstr "número de niveles de zoom"
+
+#: inc/dictionary.php:91
+msgid "maximum value"
+msgstr "valor máximo"
+
+#: inc/dictionary.php:90
+msgid "minimum value"
+msgstr "valor mínimo"
+
+#: inc/dictionary.php:89
+msgid "default value"
+msgstr "valor por defecto"
+
+#: inc/dictionary.php:88
+msgid "Dark"
+msgstr "Oscuro"
+
+#: inc/dictionary.php:87
+msgid "Light"
+msgstr "Claro"
+
+#: inc/dictionary.php:86
+msgid "Lightbox theme"
+msgstr "tema Lightbox"
+
+#: inc/dictionary.php:85
+msgid "3D FlipBook container CSS classes"
+msgstr "clases CSS del contenedor 3D FlipBook"
+
+#: inc/dictionary.php:84
+msgid "Select skin"
+msgstr "Seleccione piel"
+
+#: inc/dictionary.php:83
+msgid "Fullscreen"
+msgstr "Pantalla completa"
+
+#: inc/dictionary.php:82
+msgid "Lightbox activation link"
+msgstr "Enlace de activación de Lightbox"
+
+#: inc/dictionary.php:81
+msgid "Thumbnail and Lightbox"
+msgstr "Miniatura y Lightbox"
+
+#: inc/dictionary.php:80
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: inc/dictionary.php:78
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: inc/dictionary.php:77
+msgid "View mode"
+msgstr "Modo de vista"
+
+#: inc/dictionary.php:76
+msgid "3D Flip Book"
+msgstr "3D Flip Book"
+
+#: inc/dictionary.php:75
+msgid "items pre page"
+msgstr "ítems por página"
+
+#: inc/dictionary.php:74
+msgid "Deep linking URL parameter name"
+msgstr "nombre de parámetro de URL de enlace profundo"
+
+#: inc/dictionary.php:73
+msgid "binder texture"
+msgstr "Textura de encuadernado"
+
+#: inc/dictionary.php:72
+msgid "cover height is more on 2*padding and cover width more on 1*padding than page ones, so you can set different sizes for typical pages and cover like for real book"
+msgstr "la altura de la cubierta es más de 2*padding y el ancho de la cubierta es más de 1*padding que los de la página, por lo que puede establecer diferentes tamaños para páginas y cubiertas  típicas como para un libro real"
+
+#: inc/dictionary.php:71
+msgid "sheet weight"
+msgstr "peso de la hoja"
+
+#: inc/dictionary.php:70
+msgid "sheet thickness"
+msgstr "grosor de la hoja"
+
+#: inc/dictionary.php:69
+msgid "sheet color"
+msgstr "color de la hoja"
+
+#: inc/dictionary.php:68
+msgid "height texture resolution"
+msgstr "resolución de alto de textura"
+
+#: inc/dictionary.php:67
+msgid "width texture resolution"
+msgstr "resolución de ancho de textura"
+
+#: inc/dictionary.php:66
+msgid "curvature of open sheet, 0 is for flat sheet"
+msgstr "curvatura de hoja abierta, 0 es para hoja plana"
+
+#: inc/dictionary.php:65
+msgid "speed of changing bending angle of the flexible corner"
+msgstr "velocidad de cambio del ángulo de doblado de la esquina flexible"
+
+#: inc/dictionary.php:64
+msgid "part of the sheet that can be flexed, should be in range (0, 1)"
+msgstr "parte de la hoja que puede ser flexionada, debería estar en rango (0, 1)"
+
+#: inc/dictionary.php:63
+msgid "sheet flexibility"
+msgstr "flexibilidad de las hojas"
+
+#: inc/dictionary.php:62
+msgid "max corner (flexible part of the sheet) deviation from the whole sheet"
+msgstr "desviación máxima de la esquina (parte flexible de la hoja) de toda la hoja"
+
+#: inc/dictionary.php:61
+msgid "initial flipping velocity, it should be enough to overcome the gravity"
+msgstr "velocidad inicial de hojeado, debería ser suficiente para vencer la gravedad"
+
+#: inc/dictionary.php:60
+msgid "quantity of predicted pages for automatic loading"
+msgstr "cantidad de páginas pronosticadas para carga automática"
+
+#: inc/dictionary.php:59
+msgid "amount of loaded by user pages that are used for predicting user behaviour"
+msgstr "número de páginas cargadas por usuario que son usadas para predecir el comportamiento de usuario"
+
+#: inc/dictionary.php:58
+msgid "render pages while they are flipping, it can slow down animation"
+msgstr "renderizar páginas mientras se están hojeando, puede ralentizar la animación"
+
+#: inc/dictionary.php:57
+msgid "render loaded hidden pages in the background"
+msgstr "renderizar paginas ocultas cargadas en el fondo"
+
+#: inc/dictionary.php:56
+msgid "amount of rendered cached pages"
+msgstr "numero de páginas renderizdas en caché"
+
+#: inc/dictionary.php:55
+msgid "gravity constant"
+msgstr "constante gravitatoria"
+
+#: inc/dictionary.php:54
+msgid "book width"
+msgstr "ancho del libro"
+
+#: inc/dictionary.php:53
+msgid "book height"
+msgstr "alto del libro"
+
+#: inc/dictionary.php:52
+msgid "Auto thumbnail"
+msgstr "Miniatura automática"
+
+#: inc/dictionary.php:51
+msgid "Change image"
+msgstr "Cambiar imágen"
+
+#: inc/dictionary.php:50
+msgid "Select image"
+msgstr "Seleccionar imágen"
+
+#: inc/dictionary.php:49
+msgid "PDF page number"
+msgstr "Número de página PDF"
+
+#: inc/dictionary.php:48
+msgid "Previous"
+msgstr "Anterior"
+
+#: inc/dictionary.php:47
+msgid "Next"
+msgstr "Siguiente"
+
+#: inc/dictionary.php:46
+msgid "None"
+msgstr "Ninguno"
+
+#: inc/dictionary.php:45
+msgid "All"
+msgstr "Todos"
+
+#: inc/dictionary.php:44
+msgid "items per page"
+msgstr "ítems por página"
+
+#: inc/dictionary.php:43
+msgid "Remove all pages"
+msgstr "Quitar todas las páginas"
+
+#: inc/dictionary.php:42
+msgid "Add PDF page"
+msgstr "Añadir página PDF"
+
+#: inc/dictionary.php:41
+msgid "Add HTML pages"
+msgstr "Añadir páginas HTML"
+
+#: inc/dictionary.php:40
+msgid "Add image pages"
+msgstr "Añadir páginas de imágen"
+
+#: inc/dictionary.php:39
+msgid "Open"
+msgstr "Abrir"
+
+#: inc/dictionary.php:38
+msgid "Select files"
+msgstr "Seleccionar archivos"
+
+#: inc/dictionary.php:37 inc/dictionary.php:79
+msgid "Title"
+msgstr "Título"
+
+#: inc/dictionary.php:36
+msgid "Java Script"
+msgstr "Java Script"
+
+#: inc/dictionary.php:35
+msgid "HTML"
+msgstr "HTML"
+
+#: inc/dictionary.php:34
+msgid "CSS"
+msgstr "CSS"
+
+#: inc/dictionary.php:33
+msgid "CSS Layer"
+msgstr "Capa CSS"
+
+#: inc/dictionary.php:32
+msgid "Remove"
+msgstr "Quitar"
+
+#: inc/dictionary.php:31
+msgid "Page number"
+msgstr "Número de página"
+
+#: inc/dictionary.php:30
+msgid "interactive"
+msgstr "interactivo"
+
+#: inc/dictionary.php:29
+msgid "Images, HTMLs files"
+msgstr "Imágenes, archivos HTML"
+
+#: inc/dictionary.php:28
+msgid "PDF file"
+msgstr "archivo PDF"
+
+#: inc/dictionary.php:27
+msgid "Source"
+msgstr "Fuente"
+
+#: inc/dictionary.php:26
+msgid "Page properties"
+msgstr "Propiedades de página"
+
+#: inc/dictionary.php:25
+msgid "Cover properties"
+msgstr "Propiedades de cubierta"
+
+#: inc/dictionary.php:24
+msgid "Sheet properties"
+msgstr "Propiedades de hoja"
+
+#: inc/dictionary.php:23
+msgid "Book properties"
+msgstr "Propiedades de libro"
+
+#: inc/dictionary.php:22
+msgid "Pages"
+msgstr "Páginas"
+
+#: inc/dictionary.php:21 inc/dictionary.php:144
+msgid "General"
+msgstr "General"
+
+#: inc/dictionary.php:20 inc/dictionary.php:147
+msgid "Sorry something went wrong with the server please try again"
+msgstr "Lo sentimos, algo salió mal en el servidor; por favor intenta otra vez"
+
+#: inc/dictionary.php:19
+msgid "auto"
+msgstr "auto"
+
+#: inc/dictionary.php:15
+msgid "plugins_loaded"
+msgstr "plugins_cargados"
+
+#: assets/templates/default-book-view.php:84
+msgid "Reduce lighting"
+msgstr "Reducir iluminación"
+
+#: assets/templates/default-book-view.php:83
+msgid "Increase lighting"
+msgstr "Aumentar iluminación"
+
+#: assets/templates/default-book-view.php:81
+msgid "Stats"
+msgstr "Estadísticas"
+
+#: assets/templates/default-book-view.php:80
+msgid "Sounds"
+msgstr "Sonidos"
+
+#: assets/templates/default-book-view.php:79
+msgid "Single page"
+msgstr "Página simple"
+
+#: assets/templates/default-book-view.php:78
+msgid "Smart pan"
+msgstr "Panorama inteligente"
+
+#: assets/templates/default-book-view.php:74
+msgid "Full screen"
+msgstr "Pantalla completa"
+
+#: assets/templates/default-book-view.php:73
+msgid "Print"
+msgstr "Imprimir"
+
+#: assets/templates/default-book-view.php:72
+msgid "Download"
+msgstr "Descargar"
+
+#: assets/templates/default-book-view.php:71
+msgid "10 pages forward"
+msgstr "10 páginas adelante"
+
+#: assets/templates/default-book-view.php:62
+msgid "10 pages backward"
+msgstr "10 páginas atrás"
+
+#: assets/templates/default-book-view.php:60
+msgid "Fit view"
+msgstr "Ajustar vista"
+
+#: assets/templates/default-book-view.php:59
+msgid "Zoom out"
+msgstr "Alejar"
+
+#: assets/templates/default-book-view.php:58
+msgid "Zoom in"
+msgstr "Acercar"
+
+#: assets/templates/default-book-view.php:35
+msgid "Search"
+msgstr "Buscar"
+
+#: assets/templates/default-book-view.php:34
+msgid "Thumbnails"
+msgstr "Miniaturas"
+
+#: assets/templates/default-book-view.php:33
+msgid "Bookmarks"
+msgstr "Marcadores"
+
+#: assets/templates/default-book-view.php:24
+msgid "Close"
+msgstr "Cerrar"
+
+#: assets/templates/default-book-view.php:23
+#: assets/templates/default-book-view.php:61
+msgid "Table of contents"
+msgstr "Tabla de contenidos"
+
+#: assets/templates/default-book-view.php:10
+#: assets/templates/default-book-view.php:70
+msgid "Next page"
+msgstr "Página siguiente"
+
+#: assets/templates/default-book-view.php:7
+#: assets/templates/default-book-view.php:63
+msgid "Previous page"
+msgstr "Página anterior"
+
+#. Plugin URI of the plugin/theme
+msgid "http://3dflipbook.net"
+msgstr "http://3dflipbook.net"
+
+#. Plugin Name of the plugin/theme
+msgid "3D FlipBook - Demo"
+msgstr "3D FlipBook - Demo"
+
+#. Author URI of the plugin/theme
+msgid "http://iberezansky.net"
+msgstr "http://iberezansky.net"
+
+#. Author of the plugin/theme
+msgid "iberezansky"
+msgstr "iberezansky"
+
+#. Description of the plugin/theme
+msgid "Interactive 3D FlipBook Powered Physics Engine WordPress Plugin"
+msgstr "Plugin 3D FlipBook interactivo para Wordpress accionado por motor físico "
+
+#: inc/taxonomy.php:7
+msgid "Categories"
+msgstr "Categorías"
+
+#: assets/templates/default-book-view.php:76 inc/settings.php:8
+msgid "Settings"
+msgstr "Ajustes"
+
+#: inc/settings.php:7
+msgid "3D FlipBook Settings"
+msgstr "Ajustes de 3D FlipBook"
+
+#: inc/post.php:7
+msgid "3D FlipBook"
+msgstr "3D FlipBook"
+
+#: inc/edit.php:12
+msgid "Details"
+msgstr "Detalles"
