@@ -8,6 +8,13 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </head>
 
+<style>
+    .btn-block {
+        background-color: #6EC1E4;
+        border-color: #6EC1E4;
+    }
+</style>
+
 <body class="bg-light">
     <div class="container mt-5">
         <div class="row justify-content-center">
@@ -24,7 +31,7 @@
                                 <label for="password">Contraseña:</label>
                                 <input type="password" class="form-control" id="password" name="password" required>
                             </div>
-                            <button type="submit" class="btn btn-primary btn-block">Iniciar Sesión</button>
+                            <button type="submit" class="btn btn-primary btn-block">Ingresar</button>
                             <p id="error" class="mt-3 text-danger"></p>
                         </form>
                     </div>
